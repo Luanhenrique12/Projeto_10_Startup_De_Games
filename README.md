@@ -1,4 +1,4 @@
-# Projeto 11: Jogo "PixelVerse Adventures" ⚔️🛡️
+# Projeto 10: Jogo "PixelVerse Adventures" ⚔️🛡️
 ---
 ## O Cenário 👨‍💼
 
